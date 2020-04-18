@@ -62,4 +62,5 @@ var snakeY = snake[0].y;
       snakeY++; }
 ```
 
-
+Output Link
+http://127.0.0.1:5500/snakegame.html
